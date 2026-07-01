@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>L. Pavani - Resume</title>
+</head>
+<body>
+  <h1>L. Pavani</h1>
+  <p><strong>Roll No:</strong> 24G01A4373</p>
+  <p><strong>Course:</strong> B.Tech 3rd Year, CSE (AI)</p>
+  <p><strong>College:</strong> Venkatesa Perumal College</p>
+
+  <h2>Education</h2>
+  <ul>
+    <li>B.Tech (CSE - AI), Venkatesa Perumal College</li>
+    <li>Intermediate, Narayana Junior College — Marks: 880</li>
+    <li>10th Class — Marks: 500</li>
+  </ul>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>HTML</li>
+  </ul>
+
+  <h2>Hobbies</h2>
+  <ul>
+    <li>Sports</li>
+    <li>Movies</li>
+  </ul>
+</body>
+</html>
